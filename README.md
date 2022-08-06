@@ -1,1 +1,1 @@
-# node_redis is a sample project for how using redis with nodejs app
+### node_redis is a sample project for how using `Redis` with `Nodejs` app
